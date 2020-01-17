@@ -15,4 +15,4 @@ controller
 
 controller.hears(
   ['hello', 'hi'], ['direct_message', 'direct_mention', 'mention'],
-  function (bot, message) { bot.reply(message, 'hello. :smile_cat:') })
+  function (bot, message) { bot.reply(message, 'Meow. :smile_cat:') })
