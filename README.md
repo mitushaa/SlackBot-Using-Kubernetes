@@ -1,1 +1,1 @@
-# SlackBot-Using-Kubernetes
+# Slack Bot with Node.js on Kubernetes
